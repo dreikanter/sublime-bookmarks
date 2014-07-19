@@ -119,7 +119,7 @@ Plugins:
 ## Integration
 
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git)
-- [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) fo OS X
+- [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (for OS X).
 - [Alfred Workflow](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
 - [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) — a web browser page reloading plugin.
 
