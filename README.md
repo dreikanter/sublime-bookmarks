@@ -16,7 +16,6 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 ## Learning Materials
 
-- [Perfect Workflow in Sublime Text 2](http://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 - [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
 - [ShortcutFoo](https://www.shortcutfoo.com/app/tutorial/sublimetext) — shortcut usage training.
 
@@ -43,6 +42,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 - [The Complete Visual Guide to Sublime Text 3](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
 - [Sublime Text 3 From Scratch](http://pluralsight.com/training/Courses/TableOfContents/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
 - [Sublime Text 2](http://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
+- [Perfect Workflow in Sublime Text 2](http://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 
 ## Extensions
 
@@ -57,8 +57,6 @@ Alive projects only with Sublime Text version 3 support.
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
 - [Sublime Worksheet](https://github.com/jcartledge/sublime-worksheet) — an inline REPL for JavaScript, PHP, Ruby and more.
 - [Sublime Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
-- https://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
-- http://www.reddit.com/r/SublimeText/
 - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
