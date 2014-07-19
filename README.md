@@ -1,18 +1,16 @@
 # Sublime Text Bookmarks
 
-[Sublime Text](http://sublimetext.com) is a cross-platform text and source code editor, with a Python application programming interface (API). Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](http://en.wikipedia.org/wiki/Sublime_Text)
+> [Sublime Text](http://sublimetext.com) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](http://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/bayandin/awesome-awesomeness) to aggregate the most essential resource bookmarks for specific subject in the form of a handy well-structured list.
+This tiny project follows [GitHub community trend](https://github.com/bayandin/awesome-awesomeness) to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. This list includes:
 
-The list includes:
-
-- tutorials and learning materials;
-- general purpose extensions for text editing;
+- tutorials and learning materials for Sublime Text;
+- general purpose extensions for coding and text editing;
 - specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://sublime.wbond.net) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. **Sharing and pull requests are very much appreciated!**
 
-**[Fork and edit](https://github.com/dreikanter/awesome-sublime-text/edit/master/README.md)**
+**[Fork and edit](https://github.com/dreikanter/awesome-sublime-text/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/awesome-sublime-text/issues/new) to add)
 
 ## Things to start from
 
@@ -26,10 +24,17 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 - [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
 - [ShortcutFoo](https://www.shortcutfoo.com/app/tutorial/sublimetext) — shortcut usage training.
 
+## Books
+
+- [Sublime Productivity](http://sublimeproductivity.com) by Josh Earl.
+- [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
+- [Mastering Sublime Text](http://www.packtpub.com/mastering-sublime-text/book) by Dan Peleg (PACKT).
+- 
+
 ## News and Tips
 
 - [Sublime Blog](http://www.sublimetext.com/blog/) — official news.
-- [Sublime Text Tips](http://sublimetexttips.com) — tips and tricks for mastering Sublime Text. The also have a Twitter account: [@SublimeTxtTips](https://twitter.com/SublimeTxtTips).
+- [Sublime Text Tips](http://sublimetexttips.com) — tips and tricks for mastering Sublime Text ([twitter](https://twitter.com/SublimeTxtTips)).
 - [@SublimePackages](https://twitter.com/SublimePackages) — Latest published packages for SublimeText 2&3, news, tutorials, tips & tricks from the users community. Gently curated by [@n1k0](https://twitter.com/n1k0).
 
 ## Community
@@ -40,7 +45,9 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 ## Screencasts
 
-- [The Complete Visual Guide to Sublime Text 3](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts
+- [The Complete Visual Guide to Sublime Text 3](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
+- [Sublime Text 3 From Scratch](http://pluralsight.com/training/Courses/TableOfContents/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
+- [Sublime Text 2](http://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
 
 ## Extensions
 
@@ -133,7 +140,7 @@ Plugins:
 
 There is a huge collection of color schemes for Sublime Text at [colorsublime.com](http://colorsublime.com), nevertheless here are some most noticeable ones:
 
-- [Tomorrow](https://github.com/chriskempson/tomorrow-theme) theme — the precursor to Base16 Theme.
+- [Tomorrow](https://github.com/chriskempson/tomorrow-theme) — the precursor to Base16 Theme.
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 
@@ -146,7 +153,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [By Mathias Vagni](https://dribbble.com/shots/707233-Alternative-Sublime-Text-2-Icon)
 - [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon)
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
-- [By @shiyanhui](https://github.com/shiyanhui/Sublime-Text-Icon)
+- [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon)
 - [By Tomas Sykora](https://github.com/syky27/Sublime-Text-Icon)
 
 ### Monospace Fonts
@@ -154,7 +161,6 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 - [Adobe Source Code Pro](https://github.com/adobe/source-code-pro)
-- [Consolas](http://www.microsoft.com/typography/fonts/family.aspx?FID=300) (not free)
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
@@ -164,4 +170,5 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Sublime Text Bookmarks</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
