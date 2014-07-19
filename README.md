@@ -8,13 +8,13 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 **[Fork and edit](https://github.com/dreikanter/awesome-sublime-text/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/awesome-sublime-text/issues/new) to add)
 
-## Things to start from
+## Things to Start From
 
 - [Sublime Text home page](http://sublimetext.com)
 - [Package Control](https://sublime.wbond.net) — the first thing to do after the ST installation is to setup the package manager.
 - [Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.org) — is a first link inside the [official documentation TOC](http://www.sublimetext.com/docs/3/). It's a good starting point for noobs, as well as a detailed reference for proficient users.
 
-## Learning materials
+## Learning Materials
 
 - [Perfect Workflow in Sublime Text 2](http://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 - [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
@@ -25,7 +25,6 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 - [Sublime Productivity](http://sublimeproductivity.com) by Josh Earl.
 - [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
 - [Mastering Sublime Text](http://www.packtpub.com/mastering-sublime-text/book) by Dan Peleg (PACKT).
-- 
 
 ## News and Tips
 
