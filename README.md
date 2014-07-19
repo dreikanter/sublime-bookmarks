@@ -6,7 +6,7 @@ This tiny project follows [GitHub community trend](https://github.com/bayandin/a
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://sublime.wbond.net) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
-**[Fork and edit](https://github.com/dreikanter/awesome-sublime-text/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/awesome-sublime-text/issues/new) to add)
+**[Fork and edit](https://github.com/dreikanter/awesome-sublime-text/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/awesome-sublime-text/issues/new) to add).
 
 ## Things to Start From
 
