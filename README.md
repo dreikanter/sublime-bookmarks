@@ -60,6 +60,8 @@ Alive projects only with Sublime Text version 3 support.
 - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
+- [FindKeyConflicts](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
+- [Glue](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
 
 ### Ruby Profile
 
