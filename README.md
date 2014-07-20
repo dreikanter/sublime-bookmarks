@@ -62,6 +62,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
 - [FindKeyConflicts](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
 - [Glue](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
+- [File Navigator](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
 
 ### Ruby Profile
 
