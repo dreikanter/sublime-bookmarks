@@ -6,7 +6,7 @@ This tiny project follows [GitHub community trend](https://github.com/bayandin/a
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://sublime.wbond.net) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
-**[Fork and edit](https://github.com/dreikanter/awesome-sublime-text/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/awesome-sublime-text/issues/new) to add).
+**[Fork and edit](https://github.com/dreikanter/sublime-bookmarks/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/sublime-bookmarks/issues/new) to add).
 
 ## Things to Start From
 
@@ -46,7 +46,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 ## Extensions
 
-Alive projects only with Sublime Text version 3 support.
+Alive projects only, with Sublime Text version 3 support.
 
 ### General Purpose
 
@@ -156,13 +156,19 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 - [Adobe Source Code Pro](https://github.com/adobe/source-code-pro)
-- [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
+- [Consolas](http://www.microsoft.com/en-us/download/details.aspx?id=17879)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 - [Monaco](http://en.wikipedia.org/wiki/Monaco_%28typeface%29)
 - [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 
+See also:
+
+- [Recommended Fonts for Programming?](http://stackoverflow.com/questions/4689/recommended-fonts-for-programming) at StackOverflow.
+- [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
+- [Progamming Fonts](http://blog.codinghorror.com/progamming-fonts/) and [Revisiting Programming Fonts](http://blog.codinghorror.com/revisiting-programming-fonts/) at [CodingHorror](http://blog.codinghorror.com).
+
 ## License
 
-[Sublime Text Bookmarks](https://github.com/dreikanter/awesome-sublime-text) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
