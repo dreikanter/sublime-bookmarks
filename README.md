@@ -1,7 +1,7 @@
 # Sublime Text Bookmarks
 
 > [Sublime Text](http://sublimetext.com) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](http://en.wikipedia.org/wiki/Sublime_Text)
-
+r
 This tiny project follows [GitHub community trend](https://github.com/bayandin/awesome-awesomeness) to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://sublime.wbond.net) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
@@ -34,7 +34,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 ## Community
 
 - [Official Forum](http://www.sublimetext.com/forum/) — general discussion, technical support, ideas and feature requests.
-- [Sublime Reddit](http://www.reddit.com/r/sublime/) — user-generated news links and discussions.
+- [Sublime Reddit](http://reddit.com/r/SublimeText) — user-generated news links and discussions.
 - SuperUser: [version 2](superuser.com/questions/tagged/sublime-text-2), [version 3](superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](superuser.com/questions/tagged/sublime-text) questions.
 
 ## Screencasts
