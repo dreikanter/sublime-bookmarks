@@ -13,9 +13,6 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 - [Sublime Text home page](http://sublimetext.com)
 - [Package Control](https://sublime.wbond.net) — the first thing to do after the ST installation is to setup the package manager.
 - [Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.org) — is a first link inside the [official documentation TOC](http://www.sublimetext.com/docs/3/). It's a good starting point for noobs, as well as a detailed reference for proficient users.
-
-## Learning Materials
-
 - [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
 - [ShortcutFoo](https://www.shortcutfoo.com/app/tutorial/sublimetext) — shortcut usage training.
 
