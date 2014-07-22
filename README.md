@@ -171,8 +171,10 @@ See also:
 - [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 - [Progamming Fonts](http://blog.codinghorror.com/progamming-fonts/) and [Revisiting Programming Fonts](http://blog.codinghorror.com/revisiting-programming-fonts/) at [CodingHorror](http://blog.codinghorror.com).
 
+# Other Bookmark Lists
+
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/bayandin/awesome-awesomeness
+
 ## License
 
 Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-Other bookmark lists on the GitHub: https://github.com/bayandin/awesome-awesomeness
