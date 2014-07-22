@@ -171,7 +171,7 @@ See also:
 - [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 - [Progamming Fonts](http://blog.codinghorror.com/progamming-fonts/) and [Revisiting Programming Fonts](http://blog.codinghorror.com/revisiting-programming-fonts/) at [CodingHorror](http://blog.codinghorror.com).
 
-# Other Bookmark Lists
+## Other Bookmark Lists
 
 There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/bayandin/awesome-awesomeness
 
