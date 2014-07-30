@@ -60,6 +60,8 @@ Alive projects only, with Sublime Text version 3 support.
 - [FindKeyConflicts](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
 - [Glue](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
 - [File Navigator](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
+- [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
+- [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 
 ### Ruby Profile
 
