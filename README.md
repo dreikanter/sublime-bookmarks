@@ -105,6 +105,7 @@ Plugins:
 - [Emmet](http://emmet.io) — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
 - [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify)
 - [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
+- [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
 ### Markdown Editing Profile
 
