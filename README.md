@@ -60,6 +60,7 @@ Alive projects only with Sublime Text version 3 support.
 - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
+- [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 
 ### Ruby Profile
 
@@ -154,7 +155,6 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 - [Adobe Source Code Pro](https://github.com/adobe/source-code-pro)
-- [Consolas](http://www.microsoft.com/typography/fonts/family.aspx?FID=300) (not free)
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
