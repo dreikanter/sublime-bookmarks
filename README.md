@@ -32,7 +32,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 - [Official Forum](http://www.sublimetext.com/forum/) — general discussion, technical support, ideas and feature requests.
 - [Sublime Reddit](http://reddit.com/r/SublimeText) — user-generated news links and discussions.
-- SuperUser: [version 2](superuser.com/questions/tagged/sublime-text-2), [version 3](superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](superuser.com/questions/tagged/sublime-text) questions.
+- SuperUser: [version 2](http://superuser.com/questions/tagged/sublime-text-2), [version 3](http://superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](http://superuser.com/questions/tagged/sublime-text) questions.
 
 ## Screencasts
 
