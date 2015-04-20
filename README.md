@@ -18,7 +18,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 ## Books
 
-- [Sublime Productivity](http://sublimeproductivity.com) by Josh Earl.
+- [Sublime Productivity](https://leanpub.com/sublime-productivity) by Josh Earl.
 - [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
 - [Mastering Sublime Text](http://www.packtpub.com/mastering-sublime-text/book) by Dan Peleg (PACKT).
 
