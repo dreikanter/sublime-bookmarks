@@ -169,6 +169,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [Monaco](http://en.wikipedia.org/wiki/Monaco_%28typeface%29)
 - [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 - [Input](http://input.fontbureau.com) from Font Bureau
+- [Hack](http://sourcefoundry.org/hack/)
 
 See also:
 
