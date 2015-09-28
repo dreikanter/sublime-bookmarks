@@ -135,6 +135,7 @@ Plugins:
 - [Spacegray](http://kkga.github.io/spacegray/) — a Hyperminimal UI theme.
 - [Cobalt2](https://github.com/wesbos/cobalt2) — a full featured Sublime Text blue theme
 - [Flatland](https://github.com/thinkpixellab/flatland) — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
+- [Material Theme](http://equinusocio.github.io/material-theme/) — Epic theme for Sublime Text 3
 
 ### Color Schemes
 
