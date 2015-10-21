@@ -89,6 +89,7 @@ Notes:
 
 Plugins:
 
+- [MagicPython](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 - [Rope](https://github.com/python-rope/rope) — a Python refactoring library.
 - [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
 - [Djaneiro](https://github.com/squ1b3r/Djaneiro) — Django support.
