@@ -1,17 +1,17 @@
 # Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> [Sublime Text](http://sublimetext.com) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](http://en.wikipedia.org/wiki/Sublime_Text)
+> [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
 This tiny project follows [GitHub community trend](https://github.com/bayandin/awesome-awesomeness) to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
-This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://sublime.wbond.net) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
+This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
 **[Fork and edit](https://github.com/dreikanter/sublime-bookmarks/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/sublime-bookmarks/issues/new) to add).
 
 ## Things to Start From
 
-- [Sublime Text home page](http://sublimetext.com)
-- [Package Control](https://sublime.wbond.net) — the first thing to do after the ST installation is to setup the package manager.
+- [Sublime Text home page](http://www.sublimetext.com/)
+- [Package Control](https://packagecontrol.io/) — the first thing to do after the ST installation is to setup the package manager.
 - [Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.org) — is a first link inside the [official documentation TOC](http://www.sublimetext.com/docs/3/). It's a good starting point for noobs, as well as a detailed reference for proficient users.
 - [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
 - [ShortcutFoo](https://www.shortcutfoo.com/app/tutorial/sublimetext) — shortcut usage training.
@@ -20,7 +20,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 - [Sublime Productivity](https://leanpub.com/sublime-productivity) by Josh Earl.
 - [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
-- [Mastering Sublime Text](http://www.packtpub.com/mastering-sublime-text/book) by Dan Peleg (PACKT).
+- [Mastering Sublime Text](http://www.packtpub.com/application-development/mastering-sublime-text) by Dan Peleg (PACKT).
 
 ## News and Tips
 
@@ -31,15 +31,15 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 ## Community
 
 - [Official Forum](http://www.sublimetext.com/forum/) — general discussion, technical support, ideas and feature requests.
-- [Sublime Reddit](http://reddit.com/r/SublimeText) — user-generated news links and discussions.
+- [Sublime Reddit](https://www.reddit.com/r/SublimeText) — user-generated news links and discussions.
 - SuperUser: [version 2](http://superuser.com/questions/tagged/sublime-text-2), [version 3](http://superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](http://superuser.com/questions/tagged/sublime-text) questions.
 
 ## Screencasts
 
-- [The Complete Visual Guide to Sublime Text 3](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
-- [Sublime Text 3 From Scratch](http://pluralsight.com/training/Courses/TableOfContents/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
-- [Sublime Text 2](http://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
-- [Perfect Workflow in Sublime Text 2](http://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
+- [The Complete Visual Guide to Sublime Text 3](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
+- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
+- [Sublime Text 2](https://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
+- [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 
 ## Extensions
 
@@ -69,7 +69,7 @@ Alive projects only, with Sublime Text version 3 support.
 
 Helpful notes:
 
-- [Sublime Text setup](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](http://railstutorial.org)
+- [Sublime Text setup](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 - [Setting up Sublime Text for Ruby development](http://zhuravel.biz/setting-up-sublime-text-for-ruby-development)
 - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
 
@@ -83,7 +83,7 @@ Plugins:
 
 Notes:
 
-- [Setting up Sublime Text for Python development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
+- [Setting up Sublime Text for Python development](https://dbader.org/blog/setting-up-sublime-text-for-python-development)
 - [Sublime Text 3 for Python development](http://piotr.banaszkiewicz.org/blog/2013/08/24/sublime-text-3-for-python-development/)
 - [Sublime Text 3 for Python, JavaScript and web developers](http://opensourcehacker.com/2014/03/10/sublime-text-3-for-python-javascript-and-web-developers/)
 
@@ -118,12 +118,12 @@ Plugins:
 ### Documentation and Help Systems
 
 - [GotoDocumentation](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
-- [DashDoc](https://github.com/farcaller/DashDoc) — [Dash](http://kapeli.com/dash) integration for Sublime Text.
+- [DashDoc](https://github.com/farcaller/DashDoc) — [Dash](https://kapeli.com/dash) integration for Sublime Text.
 - [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool](https://github.com/gleitz/howdoi).
 
 ## Integration
 
-- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git)
+- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (for OS X).
 - [Alfred Workflow](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
 - [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) — a web browser page reloading plugin.
@@ -163,12 +163,12 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-- [Adobe Source Code Pro](https://github.com/adobe/source-code-pro)
+- [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-- [Monaco](http://en.wikipedia.org/wiki/Monaco_%28typeface%29)
+- [Monaco](https://en.wikipedia.org/wiki/Monaco_%28typeface%29)
 - [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 - [Input](http://input.fontbureau.com) from Font Bureau
 - [Hack](http://sourcefoundry.org/hack/)
@@ -176,7 +176,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 See also:
 
 - [Recommended Fonts for Programming?](http://stackoverflow.com/questions/4689/recommended-fonts-for-programming) at StackOverflow.
-- [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
+- [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 - [Progamming Fonts](http://blog.codinghorror.com/progamming-fonts/) and [Revisiting Programming Fonts](http://blog.codinghorror.com/revisiting-programming-fonts/) at [CodingHorror](http://blog.codinghorror.com).
 
 ## Other Bookmark Lists
