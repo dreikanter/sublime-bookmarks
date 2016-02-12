@@ -136,7 +136,9 @@ Plugins:
 - [Spacegray](http://kkga.github.io/spacegray/) — a Hyperminimal UI theme.
 - [Cobalt2](https://github.com/wesbos/cobalt2) — a full featured Sublime Text blue theme
 - [Flatland](https://github.com/thinkpixellab/flatland) — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
-- [Material Theme](http://equinusocio.github.io/material-theme/) — Epic theme for Sublime Text 3
+- [Material theme](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language.
+- [PreDawn](http://jamiewilson.io/predawn/) — A dark interface and syntax theme for Sublime Text .
+- [Comfort](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
 
 ### Color Schemes
 
@@ -145,12 +147,6 @@ There is a huge collection of color schemes for Sublime Text at [colorsublime.co
 - [Tomorrow](https://github.com/chriskempson/tomorrow-theme) — the precursor to Base16 Theme.
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
-- [soda theme](https://github.com/buymeasoda/soda-theme) — Dark and light custom UI themes.
-- [Material theme](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language.
-- [Cobalt 2](https://github.com/wesbos/cobalt2) — Sublime Text theme based on our old blue friend cobalt.
-- [PreDawn](http://jamiewilson.io/predawn/) — A dark interface and syntax theme for Sublime Text .
-- [Spacegray](https://github.com/kkga/spacegray) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal.
-- [Comfort](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
 
 ### Alternative Icons
 
