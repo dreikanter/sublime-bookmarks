@@ -110,6 +110,11 @@ Plugins:
 - [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
 - [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
+### LaTeX Profile
+
+- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - an open-source plugin that simplifies working with LaTeX files
+- [LaTeXing](http://www.latexing.com/features.html) - a closed-source (unlimited trial) plugin that simplifies working with LaTeX files
+
 ### Markdown Editing Profile
 
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
