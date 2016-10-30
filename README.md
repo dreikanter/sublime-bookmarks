@@ -112,8 +112,8 @@ Plugins:
 
 ### LaTeX Profile
 
-- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - an open-source plugin that simplifies working with LaTeX files
-- [LaTeXing](http://www.latexing.com/features.html) - a closed-source (unlimited trial) plugin that simplifies working with LaTeX files
+- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) — an open-source plugin that simplifies working with LaTeX files.
+- [LaTeXing](http://www.latexing.com/features.html) — a closed-source (unlimited trial) plugin that simplifies working with LaTeX files.
 
 ### Markdown Editing Profile
 
