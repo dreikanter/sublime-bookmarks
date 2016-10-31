@@ -150,6 +150,7 @@ There is a huge collection of color schemes for Sublime Text at [colorsublime.co
 - [Tomorrow](https://github.com/chriskempson/tomorrow-theme) — the precursor to Base16 Theme.
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
+- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 
 ### Alternative Icons
 
