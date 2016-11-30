@@ -65,6 +65,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
 - [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
+- [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch sidebar and browse your files in a normal tab with keyboard, like a pro! Also with [Dired](https://en.wikipedia.org/wiki/Dired), let you modify your directory structure using the powerful text editing feature that ST provide.
 
 ### Ruby Profile
 
