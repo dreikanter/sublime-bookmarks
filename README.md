@@ -80,6 +80,7 @@ Plugins:
 - [RSpec plugin](https://github.com/SublimeText/RSpec)
 - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
 - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
+- [ProductiveSnippetsRuby](https://github.com/janlelis/productive-sublime-snippets-ruby/) — consistent set of alternative snippets, focusing on core and stdlib ([Cheatsheet](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))
 
 ### Python Profile
 
