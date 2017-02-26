@@ -134,7 +134,7 @@ Plugins:
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (for OS X).
 - [Alfred Workflow](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
-- [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) — a web browser page reloading plugin.
+- [LiveReload](https://github.com/alepez/LiveReload-sublimetext3) — a web browser page reloading plugin.
 
 ## Fun stuff
 
@@ -163,7 +163,6 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 - [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Mathias Vagni](https://dribbble.com/shots/707233-Alternative-Sublime-Text-2-Icon)
 - [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon)
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
 - [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon)
