@@ -141,13 +141,15 @@ Plugins:
 
 ### Themes
 
-- [Soda](http://buymeasoda.github.io/soda-theme/) — dark and light custom UI themes.
-- [Spacegray](http://kkga.github.io/spacegray/) — a Hyperminimal UI theme.
-- [Cobalt2](https://github.com/wesbos/cobalt2) — a full featured Sublime Text blue theme
-- [Flatland](https://github.com/thinkpixellab/flatland) — a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
-- [Material theme](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language.
+- [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
+- [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. http://kkga.github.io/spacegray
+- [Cobalt2](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme
+- [Flatland](https://github.com/thinkpixellab/flatland) — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
+- [Material theme](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. http://equinsuocha.io/material-theme
 - [PreDawn](http://jamiewilson.io/predawn/) — A dark interface and syntax theme for Sublime Text .
 - [Comfort](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
+- [Predawn](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
+
 
 ### Color Schemes
 
