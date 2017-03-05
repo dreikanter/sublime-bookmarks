@@ -66,6 +66,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
 - [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
 - [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
+- [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
 ### Ruby Profile
 
@@ -150,9 +151,11 @@ Plugins:
 
 ### Color Schemes
 
-There is a huge collection of color schemes for Sublime Text at [colorsublime.com](http://colorsublime.com), nevertheless here are some most noticeable ones:
+- [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
+- http://tmtheme-editor.herokuapp.com — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor
 
-- [Tomorrow](https://github.com/chriskempson/tomorrow-theme) — the precursor to Base16 Theme.
+Some most noticeable schemes:
+
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 - [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
