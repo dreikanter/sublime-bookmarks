@@ -63,7 +63,6 @@ Alive projects only, with Sublime Text version 3 support.
 - [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
-- [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
 - [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
 - [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
@@ -150,10 +149,15 @@ Plugins:
 - [Predawn](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
 - [Ayu](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
 
+Related extensions:
+
+- [Sublime Theme Switcher](https://github.com/chmln/sublime-text-theme-switcher-menu) — Painless theme selection.
+
 ### Color Schemes
 
 - [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
 - http://tmtheme-editor.herokuapp.com — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor
+- [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
 
 Some most noticeable schemes:
 
