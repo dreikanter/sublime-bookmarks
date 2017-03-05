@@ -148,7 +148,7 @@ Plugins:
 - [Material theme](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. http://equinsuocha.io/material-theme
 - [Comfort](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
 - [Predawn](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
-
+- [Ayu](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
 
 ### Color Schemes
 
