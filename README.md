@@ -185,6 +185,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
+- [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 - [Monaco](https://en.wikipedia.org/wiki/Monaco_%28typeface%29)
 - [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
