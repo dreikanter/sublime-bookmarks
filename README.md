@@ -158,6 +158,7 @@ Related extensions:
 - [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
 - http://tmtheme-editor.herokuapp.com — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor
 - [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+- [Themer](https://themer.mjswensen.com) - tool for generating color schemes (and matching themes for your other development tools, including wallpaper) from your favorite colors.
 
 Some of the most popular schemes:
 
