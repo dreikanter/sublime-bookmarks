@@ -105,6 +105,7 @@ Plugins:
 - [JsFormat](https://github.com/jdc0589/JsFormat) — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
 - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 - [TernJS](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
+- [Bump](https://github.com/yavorsky/Bump) — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
 ### Client Side Profile
 
