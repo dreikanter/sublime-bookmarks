@@ -106,6 +106,7 @@ Plugins:
 - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 - [TernJS](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
 - [Bump](https://github.com/yavorsky/Bump) — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
+- [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
 
 ### Client Side Profile
 
