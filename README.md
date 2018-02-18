@@ -203,7 +203,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/bayandin/awesome-awesomeness
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/sindresorhus/awesome
 
 ## License
 
