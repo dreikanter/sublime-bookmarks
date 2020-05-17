@@ -47,6 +47,7 @@ Alive projects only, with Sublime Text version 3 support.
 
 ### General Purpose
 
+- [LSP](https://packagecontrol.io/packages/LSP) — Language Server Protocol support for Sublime Text 3 that gives you IDE features.
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
 - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
 - [GitGutter](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
