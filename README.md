@@ -10,36 +10,34 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 ## Things to Start From
 
-- [Sublime Text home page](http://www.sublimetext.com/)
+- [Sublime Text home page](https://www.sublimetext.com/)
 - [Package Control](https://packagecontrol.io/) — the first thing to do after the ST installation is to setup the package manager.
-- [Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.org) — is a first link inside the [official documentation TOC](http://www.sublimetext.com/docs/3/). It's a good starting point for noobs, as well as a detailed reference for proficient users.
-- [Shortcut Cheat Sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
+- [Unofficial Documentation](https://docs.sublimetext.io/) — is a first link inside the [official documentation TOC](https://www.sublimetext.com/docs/). It's a good starting point for noobs, as well as a detailed reference for proficient users.
+- [Shortcut Cheat Sheet](https://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/) for Linux, Mac OSX, and Windows versions of Sublime Text 3.
 - [ShortcutFoo](https://www.shortcutfoo.com/app/tutorial/sublimetext) — shortcut usage training.
 
 ## Books
 
-- [Sublime Productivity](https://leanpub.com/sublime-productivity) by Josh Earl.
-- [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
-- [Mastering Sublime Text](http://www.packtpub.com/application-development/mastering-sublime-text) by Dan Peleg (PACKT).
+- [Mastering Sublime Text](https://www.packtpub.com/application-development/mastering-sublime-text) by Dan Peleg (PACKT).
+- [Instant Sublime Text Starter](https://www.packtpub.com/product/instant-sublime-text-starter/9781849693929) by Eric Haughee (PACKT).
 
 ## News and Tips
 
-- [Sublime Blog](http://www.sublimetext.com/blog/) — official news.
-- [Sublime Text Tips](http://sublimetexttips.com) — tips and tricks for mastering Sublime Text ([twitter](https://twitter.com/SublimeTxtTips)).
-- [@SublimePackages](https://twitter.com/SublimePackages) — Latest published packages for SublimeText 2&3, news, tutorials, tips & tricks from the users community. Gently curated by [@n1k0](https://twitter.com/n1k0).
+- [Sublime Blog](https://www.sublimetext.com/blog/) — official news.
+- [Sublime Text Tips](https://sublimetexttips.com) — tips and tricks for mastering Sublime Text.
 
 ## Community
 
-- [Official Forum](http://www.sublimetext.com/forum/) — general discussion, technical support, ideas and feature requests.
+- [Official Forum](https://forum.sublimetext.com/) — general discussion, technical support, ideas and feature requests.
 - [Sublime Reddit](https://www.reddit.com/r/SublimeText) — user-generated news links and discussions.
-- SuperUser: [version 2](http://superuser.com/questions/tagged/sublime-text-2), [version 3](http://superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](http://superuser.com/questions/tagged/sublime-text) questions.
+- SuperUser: [version 2](https://superuser.com/questions/tagged/sublime-text-2), [version 3](https://superuser.com/questions/tagged/sublime-text-3), and [version-agnostic](https://superuser.com/questions/tagged/sublime-text) questions.
 
 ## Screencasts
 
 - [The Complete Visual Guide to Sublime Text 3](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
-- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
+- [Sublime Text 3 From Scratch](https://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
 - [Sublime Text 2](https://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
-- [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
+- [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 
 ## Extensions
 
